@@ -1,0 +1,159 @@
+@font-face {
+    font-family: Poppins;   /* family name */
+    src:url(../Applications/MAMP/htdocs/Decagon/Poppins/Poppins-Medium.woff);
+}
+
+body {
+    font-family:Poppins-Medium;
+}
+
+.no-padding {
+    padding: 0;
+    overflow: hidden;
+}
+
+#banner-img {
+    transform: skew(-30deg, 0deg);
+}
+
+.banner-text {
+    padding-left:150px;
+}
+
+.btn {
+    background:#a02;
+    margin-left: 150px;
+    margin-top: 30px;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color:ghostwhite;
+}
+
+h2.banner-text {
+    padding-top:50px;
+}
+
+#blue-background {
+    background: #157;
+    height: 500px;
+    color: #fff;
+}
+
+.paragraphs {
+    padding-top:10px;
+}
+
+.padding {
+    text-align:center;
+    padding-top:80px;
+    padding-left: 23px;
+    padding-right: 23px;
+}
+
+.white {
+    text-align: center;
+    color:#157;
+}
+
+.container-fluid.no-padding.white {
+    padding: 50px 100px;
+}
+
+.partners {
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.testi {
+    max-width: 342px;
+    border-radius: 10px;
+    height: 468px;
+}
+
+#sectionThree h2 {
+    margin-top: 0!important;
+}
+
+#maroon {
+    background:#a02;
+    height:600px;
+    color: #fff;
+}
+
+#maroon a {
+    color:#fff;
+}
+
+#center-sectionOne {
+    margin-top:50px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+  
+  .flex-container > div {
+    background-color: #702;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    color: #fff;
+    }
+
+    .navbar {
+        display: flex;
+        background-color: #333;
+    }
+    
+    .navbar a {
+        color: white;
+        padding: 14px 20px;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .navbar {
+        margin-bottom: 0;
+    }
+
+    #text-centre {
+        text-align: center;
+        margin-top: 100px;
+        height: 400px;
+    }
+
+    .coloredlink {
+        color: #702;
+    }
+
+    .padded {
+        padding-top: 20px;
+        font-size: 1.5em;
+    }
+
+    #lategray {
+        background:#157;
+        margin-top:30px;
+    }
+
+    #black {
+        height: 400px;
+        margin-top:80px;
+        background:#333;
+    }
+
+    #text {
+        color: #fff;
+        margin-top:80px;
+    }
+
+    .whit {
+        color: #fff;
+        padding-top:10px;
+    }

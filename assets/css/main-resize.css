@@ -1,0 +1,42 @@
+@media only screen and (max-width: 480px) {
+    #banner-img {
+        display: none;
+    }
+    .banner-text {
+        padding-left:30px;
+    }
+
+    #blue-background {
+        height:900px;
+        margin-top:10px;
+    }
+
+    #center-section {
+        height: 800px;
+    }
+
+    #sectionThree {
+        padding-top:40px;
+        padding-left: 27px;
+    }
+
+    .row.navbar {   
+        flex-direction: column;
+    }
+
+    .btn-md {
+        margin-left: 30px;
+    }
+
+    img.testi {
+        margin: 0 20px;
+    }
+
+    .flex-container {
+        margin-top: 20px;
+    }
+
+    #maroon {
+        height: 800px;
+    }
+}
